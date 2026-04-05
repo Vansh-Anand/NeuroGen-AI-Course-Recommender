@@ -1,2 +1,0 @@
-origin	https://github.com/Vansh-Anand/NeuroGen-AI-Course-Recommender.git (fetch)
-origin	https://github.com/Vansh-Anand/NeuroGen-AI-Course-Recommender.git (push)

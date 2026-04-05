@@ -1,0 +1,7 @@
+ D branches.txt
+ D push_err.txt
+ D push_err_ascii.txt
+ D remote.txt
+ D status.txt
+ D status_git.txt
+?? status_final.txt
