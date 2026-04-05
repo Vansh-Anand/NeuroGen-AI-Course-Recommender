@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+numpy
+pandas
+scikit-learn
+scikit-fuzzy
+networkx
+joblib
+streamlit
+gunicorn

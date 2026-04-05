@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+.venv/
+.env
+*.py[cod]
+*$py.class
+*.pkl
+*.ipynb_checkpoints/
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+frontend/node_modules/
+frontend/dist/
+
+# Logs and Output Files
+*.log
+*log.txt
+stdout.txt
+stderr.txt
+api_out.txt
+api_out_2.txt
+diag_out.txt
+diag_result.txt
+diag.txt
+parse_check.txt
+pip_install_err.txt
+pip_install_out.txt
+run_test.txt
+startup_test.txt
+test_output.txt
+venv_out.txt
+where_python.txt
+frontend_out.txt
+out.txt
+
+# Editor/OS settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
