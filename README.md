@@ -63,7 +63,7 @@ A modernized educational intelligence platform built using React, Tailwind CSS, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vansh-Anand/NeuroGen-AI-Course-Recommender.git
+   git clone https://github.com/Vansh-Anand/NeuroGen_Ai.git
    ```
 
 2. **Backend Setup (Python)**
