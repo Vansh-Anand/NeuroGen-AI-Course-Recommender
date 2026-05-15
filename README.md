@@ -13,7 +13,7 @@ An advanced, patent-grade Intelligent Academic Outcome & Elective Recommendation
 
 A robust system designed to elevate student success by predicting academic outcomes, recommending tailored electives, and proactively intercepting at-risk trajectories using interpretable AI.
 
-🚀 **Repository:** [https://github.com/Vansh-Anand/NeuroGen-AI-Course-Recommender](https://github.com/Vansh-Anand/NeuroGen-AI-Course-Recommender)
+🚀 **Repository:** [https://github.com/Vansh-Anand/NeuroGenAiCourseRecommender.git]
 
 A modernized educational intelligence platform built using React, Tailwind CSS, Recharts, Framer Motion, Python, Flask, and Scikit-learn.
 
